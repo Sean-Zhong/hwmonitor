@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # A 5-second delay can sometimes help ensure the desktop is fully ready
 sleep 5
 
